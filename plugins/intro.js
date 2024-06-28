@@ -53,12 +53,12 @@ var image = 'https://telegra.ph/file/4ccf3cbc78538fb81ed2a.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
 │ Name      : 𝚲𝜾𝜻𝜺𝝒 🌩️
-│ Place       : ```KERALA TVM```
+│ Place       : ```KERALA``````TVM```
 │ Gender    :  ```MALE```
 │ Age          : 20
 │ Phone     : ```WA.ME/919633119220```
 │ Youtube   : 
-│ Status     : ```SOFTWARE DEVELOPER```
+│ Status     : ```SOFTWARE``````DEVELOPER```
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
 
